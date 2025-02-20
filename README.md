@@ -119,7 +119,8 @@ answer
 ## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 answer
-* Challenge	
+* Challenge
+
 -Debugging Complex Issues.
 
 -Managing Changing Requirements	.
@@ -131,6 +132,7 @@ answer
 -Collaboration in Large Teams.	
 
 * Strategy to Overcome
+  
 -Use logging, debugging tools, and peer reviews.
 
 -Follow Agile practices and maintain clear communication with stakeholders.
@@ -159,7 +161,7 @@ answer
 
 -Example: Checking how a payment system interacts with a shopping cart.
 
--System Testing – Tests the entire application as a whole.
+- System Testing – Tests the entire application as a whole.
 
 -Verifies overall system behavior.
 
@@ -218,18 +220,22 @@ Importance:
 
 answer
 * Integrated Development Environments (IDEs)
-* 
+  
 -IDEs provide tools that streamline the software development process, including a code editor, debugger, and compiler.
 
 Examples:
 - Visual Studio Code (VS Code) – Lightweight and supports multiple programming languages.
 - IntelliJ IDEA – Preferred for Java development.
 Version Control Systems (VCS)
+
 - VCS helps manage code changes, track history, and facilitate team collaboration.
 
 Examples:
+
 -Git – Distributed version control used with platforms like GitHub and GitLab.
+
 -Subversion (SVN) – Centralized version control used in enterprise environments.
+
 Importance of IDEs & VCS:
 - Speeds up development.
 - Prevents code loss and conflicts.
