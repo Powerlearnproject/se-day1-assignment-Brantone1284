@@ -3,11 +3,11 @@
 Software Engineering Day1 Assignment
 
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
 answers
 
-Explain what software engineering is and discuss its importance in the technology industry.
+## Explain what software engineering is and discuss its importance in the technology industry.
 
 answer
 
@@ -19,7 +19,7 @@ answer
 
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+## Identify and describe at least three key milestones in the evolution of software engineering.
 
 answer
 * 1968 – The Birth of Software Engineering
@@ -33,7 +33,7 @@ Dr. Winston Royce introduced the Waterfall Model, the first structured approach 
 The Agile Manifesto introduced flexible and iterative development practices like Scrum and Kanban, revolutionizing how software is built with a focus on customer collaboration and rapid delivery.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+## List and briefly explain the phases of the Software Development Life Cycle.
 
 answer
 - Requirement Analysis – Gathering and defining software needs from stakeholders.
@@ -44,7 +44,7 @@ answer
 - Deployment – Releasing the software for users and monitoring performance.
 - Maintenance & Support – Updating, fixing issues, and improving software over time.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 answer
 
 *Waterfall Methodology:
@@ -69,7 +69,7 @@ a)Waterfall Model: Suitable for projects like aircraft control systems or bankin
 b)Agile Methodology: Ideal for mobile apps or e-commerce platforms, where user needs may change frequently.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 answer
 
@@ -93,7 +93,7 @@ _Plans and oversees the software development process.
 
 -Ensures the project aligns with business goals.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 answer
 
@@ -113,7 +113,7 @@ _Rollback Capabilities: Provides the ability to revert to previous versions if i
 
 _Examples: Git, Subversion, and Mercurial.
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 answer
         * Challenge	
@@ -130,7 +130,7 @@ answer
 -Continuous learning through online courses, forums, and practice.
 -Use Git for version control and hold regular meetings for alignment.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 answer
 
@@ -153,10 +153,10 @@ answer
 -Ensures software is ready for users.
 -Example: A client testing a new CRM system before deployment.
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+## Define prompt engineering and discuss its importance in interacting with AI models.
 
 answer
 
@@ -167,7 +167,7 @@ Importance:
 -It helps in achieving precise, relevant, and contextually appropriate responses. 
 -Properly engineered prompts can significantly enhance the performance and usability of AI applications, making the interaction more intuitive and productive.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 answer
 *Software Developer:
@@ -191,7 +191,7 @@ answer
 
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 answer
 *Integrated Development Environments (IDEs)
@@ -213,7 +213,7 @@ Importance of IDEs & VCS:
 
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 answer
     *Challenges:
@@ -236,7 +236,7 @@ Communication Issues:
   *Strategies: 
 -Regular meetings, clear documentation, and using collaboration tools.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 answer
 
