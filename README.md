@@ -4,29 +4,30 @@ Software Engineering Day1 Assignment
 
 
 #Part 1: Introduction to Software Engineering
-answer
- the discipline of designing, developing, testing, and maintaining software systems using engineering principles.
+
+answers
 
 Explain what software engineering is and discuss its importance in the technology industry.
 answer
 
-Ensures Reliability & Quality – Software engineering principles help create error-free, high-performance software.
-Enables Scalability – Applications can handle increasing users and data efficiently.
-Reduces Development Costs & Time – Structured approaches like the Software Development Life Cycle (SDLC) improve efficiency.
-Supports Innovation – Software powers everything from AI and IoT to cloud computing and cybersecurity.
-Enhances Security – Proper engineering practices protect software from vulnerabilities.
+- Ensures Reliability & Quality – Software engineering principles help create error-free, high-performance software.
+- Enables Scalability – Applications can handle increasing users and data efficiently.
+- Reduces Development Costs & Time – Structured approaches like the Software Development Life Cycle (SDLC) improve efficiency.
+- Supports Innovation – Software powers everything from AI and IoT to cloud computing and cybersecurity.
+- Enhances Security – Proper engineering practices protect software from vulnerabilities.
 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 answer
-1968 – The Birth of Software Engineering
+* 1968 – The Birth of Software Engineering
 
 The term "software engineering" was first introduced at the NATO Software Engineering Conference to address the software crisis, where large projects failed due to poor design and lack of methodology.
-1970 – Introduction of the Waterfall Model
+- 1970 – Introduction of the Waterfall Model
 
 Dr. Winston Royce introduced the Waterfall Model, the first structured approach to software development, defining phases like requirements, design, coding, testing, and maintenance.
-2001 – Agile Manifesto
+- 2001 – Agile Manifesto
 
 The Agile Manifesto introduced flexible and iterative development practices like Scrum and Kanban, revolutionizing how software is built with a focus on customer collaboration and rapid delivery.
 
@@ -34,13 +35,13 @@ The Agile Manifesto introduced flexible and iterative development practices like
 List and briefly explain the phases of the Software Development Life Cycle.
 
 answer
-Requirement Analysis – Gathering and defining software needs from stakeholders.
-Planning – Creating a project roadmap, estimating costs, and setting timelines.
-Design – Architecting the software structure, database, and user interface.
-Implementation (Coding) – Writing and developing the software based on design specifications.
-Testing – Identifying and fixing bugs through unit, integration, and system testing.
-Deployment – Releasing the software for users and monitoring performance.
-Maintenance & Support – Updating, fixing issues, and improving software over time.
+- Requirement Analysis – Gathering and defining software needs from stakeholders.
+- Planning – Creating a project roadmap, estimating costs, and setting timelines.
+- Design – Architecting the software structure, database, and user interface.
+- Implementation (Coding) – Writing and developing the software based on design specifications.
+- Testing – Identifying and fixing bugs through unit, integration, and system testing.
+- Deployment – Releasing the software for users and monitoring performance.
+- Maintenance & Support – Updating, fixing issues, and improving software over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 answer
