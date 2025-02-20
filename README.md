@@ -8,6 +8,7 @@ Software Engineering Day1 Assignment
 answers
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 answer
 
 - Ensures Reliability & Quality – Software engineering principles help create error-free, high-performance software.
@@ -46,7 +47,7 @@ answer
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 answer
 
-Waterfall Methodology:
+*Waterfall Methodology:
 
 Linear and Sequential: The Waterfall model follows a linear and sequential approach, with each phase dependent on the completion of the previous one.
 
@@ -56,7 +57,7 @@ Documentation: Heavy emphasis on documentation before and during each phase.
 
 Examples of Use: Suitable for projects with well-defined requirements that are unlikely to change, such as construction projects or certain types of hardware development.
 
-Agile Methodology:
+*Agile Methodology:
 
 Iterative and Incremental: Agile follows an iterative approach, delivering small, functional parts of the software in cycles (sprints).
 
@@ -69,8 +70,10 @@ b)Agile Methodology: Ideal for mobile apps or e-commerce platforms, where user n
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 answer
-Software Developer:
+
+*Software Developer:
 
 Writes and maintains code based on project requirements.
 Collaborates with designers and testers to develop software solutions.
