@@ -46,7 +46,7 @@ answer
 ## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 answer
 
-*Waterfall Methodology:
+* Waterfall Methodology:
 
 -Linear and Sequential: The Waterfall model follows a linear and sequential approach, with each phase dependent on the completion of the previous one.
 
@@ -56,15 +56,16 @@ answer
 
 -Examples of Use: Suitable for projects with well-defined requirements that are unlikely to change, such as construction projects or certain types of hardware development.
 
-*Agile Methodology:
+* Agile Methodology:
 
 -Iterative and Incremental: Agile follows an iterative approach, delivering small, functional parts of the software in cycles (sprints).
 
 -Flexibility: Changes and refinements can be made throughout the development process.
 
 -Collaboration: Emphasis on customer collaboration and continuous feedback.
--Examples of When to Use Each
-a)Waterfall Model: Suitable for projects like aircraft control systems or banking software, where requirements must be fixed and fully documented before development.
+Examples of When to Use Each
+a)Waterfall Model: Suitable for projects like aircraft control systems or banking software, where requirements must be fixed and fully documented before development. 
+
 b)Agile Methodology: Ideal for mobile apps or e-commerce platforms, where user needs may change frequently.
 
 
@@ -72,21 +73,24 @@ b)Agile Methodology: Ideal for mobile apps or e-commerce platforms, where user n
 
 answer
 
-*Software Developer:
+* Software Developer:
 
 -Writes and maintains code based on project requirements.
--Collaborates with designers and testers to develop software solutions.
--Troubleshoots and debugs applications.
 
-         * Quality Assurance (QA) Engineer:
+-Collaborates with designers and testers to develop software solutions.
+
+-Troubleshoots and debugs applications.
+* Quality Assurance (QA) Engineer:
 
 -Tests software to identify bugs and performance issues.
+
 -Develops automated and manual test cases.
+
 -Ensures that the final product meets quality standards.
 
-       *Project Manager:
+* Project Manager:
 
-_Plans and oversees the software development process.
+-Plans and oversees the software development process.
 
 -Manages timelines, budgets, and communication between teams.
 
@@ -96,7 +100,7 @@ _Plans and oversees the software development process.
 
 answer
 
-    * Integrated Development Environments (IDEs):
+* Integrated Development Environments (IDEs):
 
 -Tools and Features: IDEs provide tools like code editors, debuggers, and build automation tools that streamline development.
 
@@ -104,52 +108,68 @@ answer
 
 -Examples: Visual Studio, Eclipse, and IntelliJ IDEA.
 
-        *Version Control Systems (VCS):
+* Version Control Systems (VCS):
 
-_Tracking Changes: VCS tracks changes to code, allowing multiple developers to collaborate without conflicts.
+-Tracking Changes: VCS tracks changes to code, allowing multiple developers to collaborate without conflicts.
 
-_Rollback Capabilities: Provides the ability to revert to previous versions if issues arise.
+-Rollback Capabilities: Provides the ability to revert to previous versions if issues arise.
 
-_Examples: Git, Subversion, and Mercurial.
+-Examples: Git, Subversion, and Mercurial.
 
 ## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 answer
-        * Challenge	
+* Challenge	
 -Debugging Complex Issues.
+
 -Managing Changing Requirements	.
+
 -Meeting Deadlines	.
+
 -Keeping Up with New Technologies.	
+
 -Collaboration in Large Teams.	
 
-	       *Strategy to Overcome
+* Strategy to Overcome
 -Use logging, debugging tools, and peer reviews.
+
 -Follow Agile practices and maintain clear communication with stakeholders.
+
 -Use project management tools like Jira, Trello, and plan tasks efficiently.
+
 -Continuous learning through online courses, forums, and practice.
+
 -Use Git for version control and hold regular meetings for alignment.
 
 ## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 answer
 
-*Unit Testing 
-– Tests individual components or functions in isolation.
+* Unit Testing 
+-Tests individual components or functions in isolation.
+
 -Ensures correctness of small code sections.
+
 -Example: Testing a login function in an app.
 
-*Integration Testing
+* Integration Testing
 – Tests interactions between integrated components.
 
 -Ensures different modules work together.
+
 -Example: Checking how a payment system interacts with a shopping cart.
+
 -System Testing – Tests the entire application as a whole.
+
 -Verifies overall system behavior.
+
 -Example: Running tests on an entire e-commerce website before launch.
 
-*Acceptance Testing
+* Acceptance Testing
 – Confirms the system meets business requirements.
+
 -Ensures software is ready for users.
+
 -Example: A client testing a new CRM system before deployment.
 
 # Part 2: Introduction to AI and Prompt Engineering
@@ -162,29 +182,33 @@ answer
  Prompt engineering involves designing and refining input prompts to ensure AI models produce the desired outputs. 
 
 Importance:
--Effective prompt engineering is crucial for interacting with AI models. 
--It helps in achieving precise, relevant, and contextually appropriate responses. 
--Properly engineered prompts can significantly enhance the performance and usability of AI applications, making the interaction more intuitive and productive.
+- Effective prompt engineering is crucial for interacting with AI models. 
+- It helps in achieving precise, relevant, and contextually appropriate responses. 
+- Properly engineered prompts can significantly enhance the performance and usability of AI applications, making the interaction more intuitive and productive.
 
 ## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
-answer
-*Software Developer:
+* Software Developer:
 
 -Writes, tests, and maintains code based on project requirements.
+
 -Collaborates with designers and testers to develop applications.
+
 -Troubleshoots and fixes bugs.
 
-*Quality Assurance (QA) Engineer:
+* Quality Assurance (QA) Engineer:
 
 -Designs and executes test cases to identify defects.
+
 -Develops automated and manual testing strategies.
+
 -Ensures the software meets quality and performance standards.
 
-*Project Manager:
+* Project Manager:
 
 -Plans and oversees the entire development process.
+
 -Manages team coordination, deadlines, and resource allocation.
+
 -Communicates with stakeholders to ensure project goals are met.
 
 
@@ -193,77 +217,80 @@ answer
 ## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 answer
-*Integrated Development Environments (IDEs)
+* Integrated Development Environments (IDEs)
+* 
 -IDEs provide tools that streamline the software development process, including a code editor, debugger, and compiler.
 
 Examples:
--Visual Studio Code (VS Code) – Lightweight and supports multiple programming languages.
--IntelliJ IDEA – Preferred for Java development.
+- Visual Studio Code (VS Code) – Lightweight and supports multiple programming languages.
+- IntelliJ IDEA – Preferred for Java development.
 Version Control Systems (VCS)
--VCS helps manage code changes, track history, and facilitate team collaboration.
+- VCS helps manage code changes, track history, and facilitate team collaboration.
 
 Examples:
 -Git – Distributed version control used with platforms like GitHub and GitLab.
 -Subversion (SVN) – Centralized version control used in enterprise environments.
 Importance of IDEs & VCS:
-✅ Speeds up development.
-✅ Prevents code loss and conflicts.
-✅ Enables seamless teamwork and collaboration.
+- Speeds up development.
+- Prevents code loss and conflicts.
+- Enables seamless teamwork and collaboration.
 
 
 
 ## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 answer
-    *Challenges:
+* Challenges:
 
 Keeping Up with Technology:
+
 -Rapidly changing technology landscape.
 
-  *Strategies:
+* Strategies:
+  
 -Continuous learning through courses, workshops, and staying updated with industry trends.
 
-Managing Deadlines:
+- Managing Deadlines:
 -High-pressure to meet tight deadlines.
 
-   *Strategies:
+* Strategies:
 Effective time management, prioritization, and using agile practices to deliver incrementally.
 
-Communication Issues:
+- Communication Issues:
 -Miscommunication within the team or with stakeholders.
 
-  *Strategies: 
+* Strategies: 
 -Regular meetings, clear documentation, and using collaboration tools.
 
 ## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 answer
 
-*Unit Testing:
+* Unit Testing:
 
 - Testing individual components or units of code.
 
 Importance:
 -Ensures each part functions correctly in isolation.
 
-*Integration Testing:
+* Integration Testing:
 
 - Testing combined parts of an application to ensure they work together.
 
 Importance:
 Detects interface defects between integrated units.
 
-*System Testing:
+* System Testing:
 
  -Testing the complete and integrated software to evaluate its compliance with requirements.
 
 Importance:
 Validates the overall functionality of the application.
 
-*Acceptance Testing:
+* Acceptance Testing:
 
 - Testing conducted to determine if the software meets the acceptance criteria.
 
-Importance:
+- Importance:
 Ensures the software is ready for delivery to the end user.
 
